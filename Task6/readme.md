@@ -1,5 +1,5 @@
 1. A screenshot of the console output immediately after you have successfully generated your Deposit Receiver Address.
-
+![1](https://user-images.githubusercontent.com/51861246/128786949-cd906ce6-1f69-405f-b69b-bd531de719ff.PNG)
 2. Your Deposit Receiver Address (in text format).
    `ckt1q3dz2p4mdrvp5ywu4kk5edl2uc4p03puvx07g7kgqdau3n3dmypkqnxzuefxyp9wdghglncj77k5wt6p59sx6kukyjlwh5s467qgp8m25yqqqqqsqqqqqvqqqqqfjqqqqr5z3xnnrv6359gs4xnjgadqtyqpwrfx805f5mdr6s52yyzhvfhkg6gqqqqpqqqqqqcqqqqqxyqqqqx7asf60w8pqpte2sfcfn90fdfzxue7ff2g8sawe9wacnqat6jmygqngqqqqpxv9ejjvgz2u63w3l839aadguh5rgtqd4devf97a0fpt4uqsz0k5k87dxspv9k6n6aw3jzx9ggtjgaphazfcq9rqgqqqqqqcq3pf3jm`
 3. The Ethereum address used to generate the Deposit Receiver Address (in text format).
