@@ -1,4 +1,5 @@
-1. A screenshot of the console output immediately after you have successfully issued a smart contract call.
+1. A screenshot of the console output immediately after you have successfully issued a smart contract call.![callSuccess](https://user-images.githubusercontent.com/51861246/128774056-f7b98924-e20b-49c6-bc5f-64a6f4b9a5ae.PNG)
+
 2. The transaction hash from the console output (in text format).
 0xb3ddb1c0603202352a66c7e43a86b906503be24e8e747c9a7954b6a4884e86b4
 3. The contract address that you called (in text format).
