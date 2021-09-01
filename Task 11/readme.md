@@ -9,7 +9,7 @@
 5. The transaction hash of the "Contract call" from the console output (in text format).
    `0x62d407e05e9110b1f724c2678b36767e592ce867b2506bccc34a548da89e965f`
 6. The contract address that you called (in text format).
-   '0x8cbf2253615045625c6F595603708f2d9eFA3f4b'
+   `0x8cbf2253615045625c6F595603708f2d9eFA3f4b`
 7. The ABI for contract you made a call on (in text format).
    ```
    [
