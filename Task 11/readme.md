@@ -11,7 +11,7 @@
 6. The contract address that you called (in text format).
    '0x8cbf2253615045625c6F595603708f2d9eFA3f4b'
 7. The ABI for contract you made a call on (in text format).
-   `[
+   ```json[
    {
    "inputs": [],
    "stateMutability": "payable",
@@ -43,6 +43,6 @@
    "stateMutability": "view",
    "type": "function"
    }
-   ]`
+   ]```
 8. Your Tron address (in text format).
    `TYmgffqErZn5bZnzng6vtRAgznXnGCrvtH`
